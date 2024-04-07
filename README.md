@@ -1,7 +1,7 @@
 ### About me
 
-<h1 align="center">안녕하세요 김태호입니다</h1>
-<h3 align="center">성일정보고 재학중입니다</h3>
+<h1 align="center">Hi, I'm Kim Taeho</h1>
+<h3 align="center">I'm belong to Sungil Information hing School</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
