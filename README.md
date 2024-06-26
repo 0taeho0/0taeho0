@@ -1,12 +1,20 @@
 ![image](https://github.com/dbsrjs/dbsrjs/assets/124150775/41c9f88b-8b8f-4efd-9626-e038b753b984)<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=F08080&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Taeho+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=300&section=header&text=Welcome&fontSize=90)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=%2390EE90&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Taeho+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+
+<div align="center">
 <div align="center">
 
+<hr>
 
  ### The language I study is Java
  ### The languages I am interested in are Java and Python
  ### I'm belong to Sungil Information hing School
+
+ <hr>
  
 <h1> Experience </h1>
 
