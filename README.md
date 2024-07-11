@@ -18,6 +18,9 @@
  <a href="https://github-readme-stats.vercel.app/api?username=0taeho0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="0taeho0 Github Stats" src="https://github-readme-stats.vercel.app/api?username=0taeho0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0taeho0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="0taeho0 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0taeho0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=taeho0920)](https://solved.ac/0taeho0)
+
 <h1> Experience </h1>
 
 | What | When | How | Where |
