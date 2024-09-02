@@ -5,14 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=%2390EE90&size=45&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hello!%2C+I'm+Taeho+Kim+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 
-
-<hr>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
  ### The language I study is Java
  ### The languages I am interested in are Java and Python
  ### I'm belong to Sungil Information hing School
+ 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
- <hr>
  <a href="https://github-readme-stats.vercel.app/api?username=0taeho0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="0taeho0 Github Stats" src="https://github-readme-stats.vercel.app/api?username=0taeho0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0taeho0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="0taeho0 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0taeho0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
